@@ -1,32 +1,122 @@
 [
   {
-    "ep_title" : "Episode - 1",
-    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "ep_number" : "1",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie7-",
     "format" : ".jpg",
-    "pages" : 8
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
   },
   {
-    "ep_title" : "Episode - 2",
-    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "ep_number" : "2",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie6-",
     "format" : ".jpg",
-    "pages" : 8
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
   },
   {
-    "ep_title" : "Episode - 3",
-    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "ep_number" : "3",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၃)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie5-",
     "format" : ".jpg",
-    "pages" : 8
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
   },
   {
-    "ep_title" : "Episode - 4",
+    "ep_number" : "4",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၄)",
     "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
     "format" : ".jpg",
-    "pages" : 8
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
   },
   {
-    "ep_title" : "Episode - 5",
+    "ep_number" : "6",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၆)",
     "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
     "format" : ".jpg",
-    "pages" : 8
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "1",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie7-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "2",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie6-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "3",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၃)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie5-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "4",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၄)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "6",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၆)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "1",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie7-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "2",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၂)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie6-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "3",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၃)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie5-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "4",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၄)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
+  },
+  {
+    "ep_number" : "6",
+    "ep_title" : "မိသားစုဖောက်ပြန်မှု အပိုင်း (၆)",
+    "link" : "https://colorshop5.files.wordpress.com/2023/02/drbrandie8-",
+    "format" : ".jpg",
+    "pages" : 8,
+    "info" : "Update : 12/12/2023"
   }
 ]
